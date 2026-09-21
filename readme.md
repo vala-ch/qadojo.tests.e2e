@@ -1,0 +1,1 @@
+this is e2e tests for QA Dojo webpage
